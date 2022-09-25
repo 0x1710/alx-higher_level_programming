@@ -1,12 +1,10 @@
 # 0x03. Python - Data Structures: Lists, Tuples
 
-ALX School Full Stack Software Engineering Project. The ain is to learn about lists, tuples and strings in Python.
-
 ## Technologies
 - Shell Scripts are written in Bash 4.3.11(1)
 - Python Scripts are written with Python 3.4.3
 - C files are compiled using gcc 4.8.4
-- Tested on Ubuntu 14.04 LTS
+- Tested on Ubuntu 
 
 ## Files:
 
